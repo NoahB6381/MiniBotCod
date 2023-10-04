@@ -148,12 +148,12 @@ public final class Constants {
     }
 
     public static final class ArmConstants {
-        //public static final int kLeftSliderMotor = 13;
-        //public static final int kRightSliderMotor = 14;
-        //public static final int kArmRotateMotor = 16;
+       // public static final int kLeftSliderMotor = 13;
+       //public static final int kRightSliderMotor = 14;
+        public static final int kArmRotateMotor = 16;
         
         //public static final int kManipulatorWristMotor = 17;
-        //public static final int kManipulatorIntakeMotor = 18;
+        public static final int kManipulatorIntakeMotor = 18;
 
         // uncertain
         public static final int gArmSliderBottom = 1;
